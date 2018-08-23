@@ -1,0 +1,12 @@
+{
+  "name": "test circle ci",
+  "version": "1.0.0",
+  "description": "testing circleci - just a test",
+  "main": "index.html",
+  "author": "sujasree",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
